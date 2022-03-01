@@ -1,6 +1,7 @@
 # Profile
 
 ## GitHub Page
-Create Profile by using GitHub Page.
-The link:
+Hi! I'm Kritasak
+
+More about me :
 >> https://kritasak.github.io/kritasak/
