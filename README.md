@@ -9,6 +9,6 @@ The link:
 
 ## Disgovery Project
 
-Front-end >> https://github.com/ktnsdev/disgovery-frontend
+- [Front-End](https://github.com/ktnsdev/disgovery-frontend){:target="\_blank"}
 
-Back-end >> https://github.com/campzazathelord/disgovery-backend
+- [Back-End](https://github.com/campzazathelord/disgovery-backend){:target="\_blank"}
