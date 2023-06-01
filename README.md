@@ -1,11 +1,22 @@
 # Profile
 
-## GitHub Page
+## Visit My Profile
 
-Create Profile by using GitHub Page.
-The link:
+Webpage:
 
 > > https://kritasak.github.io/kritasak/
+
+LinkedIn:
+
+> > https://www.linkedin.com/in/kritasak/
+
+## Trading Position Management Platform using Python
+
+A senior year project (Full Stack Developer & Project Manager)
+
+- Front-End >> https://github.com/kritasak/trading-position-frontend
+
+- Back-End >> https://github.com/kritasak/trading-position-backend
 
 ## Disgovery Project
 
