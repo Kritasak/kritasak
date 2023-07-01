@@ -1,8 +1,8 @@
-# Hi, I'm Kritasak Udompongsanont !
+# Profile
 
-## Visit My Profile
+## Hi! I'm Kritasak Udompongsanont.
 
-Webpage:
+Visit my profile:
 
 > > https://kritasak.github.io/kritasak/
 
